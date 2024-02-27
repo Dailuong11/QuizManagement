@@ -1,0 +1,16 @@
+D:\Exercises C#\QuizManagement\bin\Debug\QuizManagement.exe.config
+D:\Exercises C#\QuizManagement\bin\Debug\QuizManagement.exe
+D:\Exercises C#\QuizManagement\bin\Debug\QuizManagement.pdb
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.csproj.AssemblyReference.cache
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.csproj.SuggestedBindingRedirects.cache
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.Login.resources
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.Properties.Resources.resources
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.csproj.GenerateResource.cache
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.csproj.CoreCompileInputs.cache
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.csproj.CopyComplete
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.exe
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.pdb
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.Teacher.addNewQuestions.resources
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.Teachers.resources
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.Teacher.UpdateQuestion.resources
+D:\Exercises C#\QuizManagement\obj\Debug\QuizManagement.Teachered.ViewAndDeleteQuestion.resources
